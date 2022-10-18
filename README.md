@@ -17,5 +17,4 @@ In the second tab, I would like to see how Orange Juice Sales (Gallons) change i
 
 In the final tab, I would like to see how the Orange Juice Sales (Gallons) change in relation to the factors outside control (temperature, petrol prices, holidays etc.). Each graph in this tab can either be X-Y type charts, or show how both variables vary across time. I should have filters to select one or multiple years
 
-# Dashboard Results
 
