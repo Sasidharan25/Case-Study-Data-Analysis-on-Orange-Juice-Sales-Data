@@ -1,5 +1,6 @@
 # Case Study : Analyze and create visualizations on an orange juice sales dataset
 
+![oj](https://user-images.githubusercontent.com/91523309/196414557-4d33fafc-2fd9-426a-a446-9be75189b54c.jpg)
 
 # Project Description
 
@@ -16,7 +17,7 @@ In the second tab, I would like to see how Orange Juice Sales (Gallons) change i
 In the final tab, I would like to see how the Orange Juice Sales (Gallons) change in relation to the factors outside control (temperature, petrol prices, holidays etc.). Each graph in this tab can either be X-Y type charts, or show how both variables vary across time. I should have filters to select one or multiple years
 
 
-# Dashboard Shots
+# Dashboard Results
 
 ![Dashboard - 1](https://user-images.githubusercontent.com/91523309/196413152-23dad9cc-a8f2-4ed8-a7e9-18fc9109fce4.PNG)
 
