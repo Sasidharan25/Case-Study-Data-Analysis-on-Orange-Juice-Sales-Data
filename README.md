@@ -2,6 +2,8 @@
 
 ![Dashboard - 1](https://user-images.githubusercontent.com/91523309/196413152-23dad9cc-a8f2-4ed8-a7e9-18fc9109fce4.PNG)
 
+![dashboard - 2](https://user-images.githubusercontent.com/91523309/196414137-226220b2-e7e4-4b04-ab6f-16b25a1025d4.PNG)
+
 
 # Project Description
 
